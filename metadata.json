@@ -1,0 +1,7 @@
+{
+  "name": "ScoopCast POS & Forecast",
+  "description": "Aplikasi POS Kasir, Manajemen Stok Inventaris, dan Prediksi Penjualan Es Krim Menggunakan Model ETS & Dekomposisi Deret Waktu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
